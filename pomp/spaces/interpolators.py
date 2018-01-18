@@ -1,5 +1,5 @@
 import math
-from klampt import vectorops,trajectory
+from pomp.klampt import vectorops,trajectory
 from geodesicspace import GeodesicSpace
 
 class Interpolator:
